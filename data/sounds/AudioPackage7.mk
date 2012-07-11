@@ -14,6 +14,8 @@ PRODUCT_COPY_FILES += \
 	$(LOCAL_PATH)/alarms/ogg/Neptunium.ogg:system/media/audio/alarms/Neptunium.ogg \
 	$(LOCAL_PATH)/alarms/ogg/Nobelium.ogg:system/media/audio/alarms/Nobelium.ogg \
 	$(LOCAL_PATH)/alarms/ogg/Plutonium.ogg:system/media/audio/alarms/Plutonium.ogg \
+	$(LOCAL_PATH)/alarms/ogg/Cesium.ogg:system/media/audio/alarms/Alarm_Rooster_01.ogg \
+	$(LOCAL_PATH)/alarms/ogg/Cesium.ogg:system/media/audio/alarms/Alarm_Rooster_02.ogg \
 	$(LOCAL_PATH)/effects/ogg/Effect_Tick.ogg:system/media/audio/ui/Effect_Tick.ogg \
 	$(LOCAL_PATH)/effects/ogg/KeypressStandard_120.ogg:system/media/audio/ui/KeypressStandard.ogg \
 	$(LOCAL_PATH)/effects/ogg/KeypressSpacebar_120.ogg:system/media/audio/ui/KeypressSpacebar.ogg \
